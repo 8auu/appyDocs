@@ -4,6 +4,7 @@
 * [🐛 Debuging](debuging.md)
 * [📃 FAQ](faq.md)
 * [👮 Permissions](permissions.md)
+* [Video tutorial](video-tutorial.md)
 
 ## Commands
 
